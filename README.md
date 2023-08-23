@@ -1,2 +1,2 @@
-# LZ-zy
+# LZ-
 study process
